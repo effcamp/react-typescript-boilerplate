@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "webpack-dev-server",
-    "start": "webpack-dev-server --content-base ./"
+    "build": "webpack"
   },
   "devDependencies": {
     "awesome-typescript-loader": "^3.4.1",
